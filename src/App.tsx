@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 //import './App.css';
 
-import OrcaSwap from './OrcaSwap';
+import OrcaSwap from './FyfySwap';
 import { SnackbarProvider } from 'notistack';
 import { ConnectionProvider, WalletProvider } from '@solana/wallet-adapter-react';
 import { WalletAdapterNetwork } from '@solana/wallet-adapter-base';

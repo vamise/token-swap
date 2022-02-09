@@ -22,7 +22,7 @@ BUILD:
 Try it out:
 - http://localhost:3000/#/
 
-Component Preview: (https://verify.grapes.network)
+Component Preview: (https://verify.fyfy.app)
 
 <img width="334" alt="Screen Shot 2022-01-10 at 4 16 36 PM" src="https://user-images.githubusercontent.com/13381905/148781032-f9317acd-f233-4bea-b041-71564ce22095.png">
 <img width="626" alt="Screen Shot 2022-01-10 at 4 16 48 PM" src="https://user-images.githubusercontent.com/13381905/148781042-8e73333e-75a5-45e6-8e73-316ceaa62808.png">
